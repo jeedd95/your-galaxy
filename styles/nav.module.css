@@ -1,0 +1,16 @@
+.userProfile {
+  cursor: pointer;
+}
+
+.userInfo {
+  pointer-events: none;
+}
+
+.label {
+  color: gray;
+  font-size: smaller;
+}
+
+.input {
+  max-width: 60px;
+}

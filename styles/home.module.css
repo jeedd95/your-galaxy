@@ -1,0 +1,18 @@
+.container {
+  background-color: rgb(31, 31, 36);
+  height: 90vh;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(2%, auto));
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.label {
+  color: gray;
+  font-size: smaller;
+}
