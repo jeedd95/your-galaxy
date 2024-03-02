@@ -29,5 +29,6 @@ https://jeedd95.tistory.com/entry/Your-Galaxy
 
 ## Version
 ### 1.0.0
+2024.3.2
 1차 완료
 깃 public으로 변경
