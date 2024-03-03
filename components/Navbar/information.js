@@ -17,7 +17,7 @@ import Link from "next/link";
 import { useState } from "react";
 import { FaQuestion } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
-import { SiTistory } from "react-icons/si";
+import { SiVelog } from "react-icons/si";
 import { FaGithub } from "react-icons/fa6";
 
 export default function Information() {
@@ -129,10 +129,10 @@ export default function Information() {
               </div>
               <Spacer y={3} />
               <div className="flex justify-start">
-                <SiTistory />
+                <SiVelog />
                 <Spacer x={2} />
                 <Link
-                  href="https://jeedd95.tistory.com/"
+                  href="https://velog.io/@jeedd95/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
