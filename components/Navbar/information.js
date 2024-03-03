@@ -136,7 +136,7 @@ export default function Information() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  jeedd95.tistory.com
+                  velog.io/@jeedd95
                 </Link>
               </div>
               <Spacer y={3} />
