@@ -25,7 +25,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 * [flaticon](https://www.flaticon.com/)
 
 ## Development Log  
-https://jeedd95.tistory.com/entry/Your-Galaxy
+https://velog.io/@jeedd95/%EA%B8%B0%ED%9A%8D-uhi4qncu
 
 ## Version
 ### 1.0.0
