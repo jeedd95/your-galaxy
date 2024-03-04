@@ -27,6 +27,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Development Log  
 https://velog.io/@jeedd95/series/Your-Galaxy
 
+## Contact
+jeedd95@gmail.com
+
 ## Version
 ### 1.0.0
 2024.3.2
